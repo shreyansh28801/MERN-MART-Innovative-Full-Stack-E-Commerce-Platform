@@ -3,14 +3,15 @@
 <p align="center">
   <img src="https://your-image-url.com" alt="MERN-MART Logo">
 </p>
-<div align="center">
-  <a href="https://mern-mart-demo.com" target="_blank">Live Demo</a> | 
-  <a href="#Getting Started">Getting Started</a> | 
-  <a href="#Features">Features</a> | 
-  <a href="#technologies">Technologies</a> | 
-  <a href="#contributing">Contributing</a> | 
-  <a href="#license">License</a>
-</div>
+## Table of Contents
+
+- [Live Demo](#live-demo)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Welcome to MERN-MART! 🎉
 MERN-MART is a cutting-edge full-stack e-commerce web application built with the powerful MERN (MongoDB, Express, React, Node.js) stack. It aims to revolutionize the way online stores are created and managed. With your hard work and dedication, this project is poised to elevate your resume and showcase your skills to the world.
