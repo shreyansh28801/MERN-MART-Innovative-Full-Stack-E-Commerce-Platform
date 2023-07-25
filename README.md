@@ -1,4 +1,4 @@
-#MERN-MART  🛍️ : Elevate Your Online Business to New Heights 🎉
+# MERN-MART  🛍️ : Elevate Your Online Business to New Heights 🎉
 
 <p align="center">
   <img src="https://your-image-url.com" alt="MERN-MART Logo">
