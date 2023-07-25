@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   <a href="https://mern-mart-demo.com" target="_blank">Live Demo</a> | 
-  <a href="#getting-started">Getting Started</a> | 
+  <a href="#Getting Started">Getting Started</a> | 
   <a href="#features">Features</a> | 
   <a href="#technologies">Technologies</a> | 
   <a href="#contributing">Contributing</a> | 
