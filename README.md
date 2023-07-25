@@ -3,14 +3,15 @@
 <p align="center">
   <img src="https://your-image-url.com" alt="MERN-MART Logo">
 </p>
+
 ## Table of Contents
 
 - [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#Features)
+- [Technologies](#Technologies)
+- [Contributing](#Contributing)
+- [License](#License)
 
 
 ## Welcome to MERN-MART! 🎉
