@@ -12,7 +12,7 @@
 
 
 ## Welcome to MERN-MART! 🎉
-MERN-MART is a cutting-edge full-stack e-commerce web application built with the powerful MERN (MongoDB, Express, React, Node.js) stack. It aims to revolutionize the way online stores are created and managed. With your hard work and dedication, this project is poised to elevate your resume and showcase your skills to the world.
+An advanced e-commerce platform, MERN-MART, was created employing cutting-edge technologies: MongoDB, Express, React, and Node.js. User authentication was fortified with JSON Web Tokens (JWT) to safeguard sensitive data and ensure utmost privacy and security. A powerful admin dashboard was created to enable smooth product management, allowing users to add, update, and remove products effortlessly.
 
 MERN-MART Screenshot
 
