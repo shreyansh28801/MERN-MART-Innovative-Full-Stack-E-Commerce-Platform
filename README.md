@@ -1,17 +1,5 @@
-# MERN-MART  🛍️ : Elevate Your Online Business to New Heights 🎉
+# MERN-MART  🛍️ : Innovative-Full-Stack-E-Commerce-Platform 🎉
 
-
-## Table of Contents
-
-- [Live Demo](#live-demo)
-- [Getting Started](#getting-started)
-- [Features](#Features)
-- [Technologies](#Technologies)
-- [Contributing](#Contributing)
-- [License](#License)
-
-
-## Welcome to MERN-MART! 🎉
 An advanced e-commerce platform, MERN-MART, was created employing cutting-edge technologies: MongoDB, Express, React, and Node.js. User authentication was fortified with JSON Web Tokens (JWT) to safeguard sensitive data and ensure utmost privacy and security. A powerful admin dashboard was created to enable smooth product management, allowing users to add, update, and remove products effortlessly.
 
 MERN-MART Screenshot
